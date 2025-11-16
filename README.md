@@ -9,25 +9,26 @@ This project includes **Wireframes** and **High-Fidelity Designs** showing the f
 
 ---
 
+
 ## 🧩 Wireframes (Low-Fidelity Screens)
 
-### ➤ Splash
-![Wireframe – Splash](funny-quotations-exports/wireframes/Splash.png)
+### ➤ Splash  
+![Splash Wireframe](funny-quotations-exports/wireframes/Splash.png)
 
 ### ➤ Home Page  
-![Wireframe – Home](funny-quotations-exports/wireframes/Home Page.png)
+![Home Wireframe](funny-quotations-exports/wireframes/Home%20Page.png)
 
 ### ➤ Work & Study Fun  
-![Wireframe – Work & Study Fun](funny-quotations-exports/wireframes/Work & Study Fun.png)
+![Work & Study Wireframe](funny-quotations-exports/wireframes/Work%20%26%20Study%20Fun.png)
 
 ### ➤ Daily Life Humor  
-![Wireframe – Daily Life Humor](funny-quotations-exports/wireframes/Daily Life Humor.png)
+![Daily Life Humor](funny-quotations-exports/wireframes/Daily%20Life%20Humor.png)
 
 ### ➤ Technology & Social Media Jokes  
-![Wireframe – Tech Jokes](funny-quotations-exports/wireframes/Technology & Social Media Jokes.png)
+![Tech Jokes Wireframe](funny-quotations-exports/wireframes/Technology%20%26%20Social%20Media%20Jokes.png)
 
 ### ➤ Favourites  
-![Wireframe – Favourites](funny-quotations-exports/wireframes/Favourites.png)
+![Favourites Wireframe](funny-quotations-exports/wireframes/Favourites.png)
 
 ---
 
@@ -37,16 +38,16 @@ This project includes **Wireframes** and **High-Fidelity Designs** showing the f
 ![Splash](funny-quotations-exports/high-fidelity/Splash.png)
 
 ### ➤ Home Page  
-![Home Page](funny-quotations-exports/high-fidelity/Home Page.png)
+![Home Page](funny-quotations-exports/high-fidelity/Home%20Page.png)
 
 ### ➤ Study Fun  
-![Study Fun](funny-quotations-exports/high-fidelity/Study Fun.png)
+![Study Fun](funny-quotations-exports/high-fidelity/Study%20Fun.png)
 
 ### ➤ Technology Jokes  
-![Technology Jokes](funny-quotations-exports/high-fidelity/Technology Jokes.png)
+![Technology Jokes](funny-quotations-exports/high-fidelity/Technology%20Jokes.png)
 
 ### ➤ Daily Life Jokes  
-![Daily Life Jokes](funny-quotations-exports/high-fidelity/Daily Life Jokes.png)
+![Daily Life Jokes](funny-quotations-exports/high-fidelity/Daily%20Life%20Jokes.png)
 
 ### ➤ Favourites  
 ![Favourites](funny-quotations-exports/high-fidelity/Favourites.png)
@@ -57,14 +58,14 @@ This project includes **Wireframes** and **High-Fidelity Designs** showing the f
 - Figma  
 - Components & Auto Layout  
 - Custom Icons  
-- Gradient UI Theme
+- Gradient Theme
 
 ---
 
 ## 🎯 Purpose of This Project
 This project was created to practice:
 
-- Mobile app UI layout  
+- Mobile UI layout  
 - Wireframe → High-Fidelity workflow  
 - Color and typography balance  
 - Consistent spacing  
@@ -72,6 +73,7 @@ This project was created to practice:
 
 ---
 
-## 📬 Author
+## 👩‍🎨 Author
 **Anila Khan**  
-UI/UX Designer 
+UI/UX Designer  
+
