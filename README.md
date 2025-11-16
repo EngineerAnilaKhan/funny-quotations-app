@@ -61,7 +61,12 @@ This project includes **Wireframes** and **High-Fidelity Designs** showing the f
 - Gradient Theme
 
 ---
+## 🔗 Interactive Prototype  
+Experience the full app flow in Figma:
 
+👉 **[Open Live Prototype](https://www.figma.com/proto/yw64bkXkBK5TkohujilzgJ/Funny-Quotation-App?node-id=12-285&t=6DZjJD4MUFWSfNVT-1)**  
+
+ ---
 ## 🎯 Purpose of This Project
 This project was created to practice:
 
