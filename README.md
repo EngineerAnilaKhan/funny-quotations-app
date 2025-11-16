@@ -6,24 +6,6 @@ This project includes **Wireframes** and **High-Fidelity Designs** showing the f
 ---
 
 ## 📁 Project Structure
-funny-quotations-exports/
-├── high-fidelity/
-│ ├── Daily Life Jokes.png
-│ ├── Favourites.png
-│ ├── Home Page.png
-│ ├── Splash.png
-│ ├── Study Fun.png
-│ └── Technology Jokes.png
-│
-└── wireframes/
-├── Daily Life Humor.png
-├── Favourites.png
-├── Home Page.png
-├── Splash.png
-├── Technology & Social Media Jokes.png
-└── Work & Study Fun.png
-
-
 
 ---
 
